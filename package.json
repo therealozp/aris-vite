@@ -16,11 +16,13 @@
     "@react-three/drei": "^9.88.11",
     "@react-three/editor": "^0.0.16",
     "@react-three/fiber": "^8.15.10",
+    "@types/node": "^20.9.0",
     "@types/three": "^0.158.2",
     "framer-motion": "^10.16.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.158.0"
+    "three": "^0.158.0",
+    "vike": "^0.4.144"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
